@@ -1,0 +1,6 @@
+G:\Pratian\UI\Project\Sapna_bootstrap\Sapna_bootstrap\bin\Sapna_bootstrap.dll.config
+G:\Pratian\UI\Project\Sapna_bootstrap\Sapna_bootstrap\bin\Sapna_bootstrap.dll
+G:\Pratian\UI\Project\Sapna_bootstrap\Sapna_bootstrap\bin\Sapna_bootstrap.pdb
+G:\Pratian\UI\Project\Sapna_bootstrap\Sapna_bootstrap\obj\Debug\Sapna_bootstrap.csprojResolveAssemblyReference.cache
+G:\Pratian\UI\Project\Sapna_bootstrap\Sapna_bootstrap\obj\Debug\Sapna_bootstrap.dll
+G:\Pratian\UI\Project\Sapna_bootstrap\Sapna_bootstrap\obj\Debug\Sapna_bootstrap.pdb

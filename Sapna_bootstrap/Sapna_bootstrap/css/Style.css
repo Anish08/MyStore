@@ -1,0 +1,61 @@
+﻿.container-fluid
+{
+    padding:0px;
+    overflow:hidden;
+}
+.navbar 
+{
+    margin-bottom:0px;
+}
+.navbar-inverse {
+    border:1px solid #f8f8f8;
+     background-color:#f8f8f8;
+}
+.navbar-inverse .navbar-brand,.navbar-inverse .navbar-nav>li>a {
+    color:blue;
+}
+.navbar-inverse .navbar-brand:hover ,.navbar-inverse .navbar-nav>li>a:hover{
+   color:darkblue;
+}
+.mob
+{
+    border-bottom:2px solid black;
+}
+.mobile
+{
+    position:relative;
+    border:1px solid lightblue;
+    border-radius:30px;
+    width:200px;
+    height:350px;
+    float:left;
+    margin:9px;
+    padding:4px;
+    font-size:0.8em;
+    overflow:hidden;
+}
+
+.cost
+{
+    position:absolute;
+    bottom:35px;
+    padding-left:75px;
+    font-weight:bold;
+}
+.mobbtn
+{
+    bottom:10px;
+    position:absolute;
+    margin-left:60px;
+    border-radius:5px;
+    background-color:#73AD21;
+
+}
+#cart
+{
+   width:60px;
+}
+.mobile:hover
+{
+    box-shadow:0vw 0vh 1vh inset;
+}

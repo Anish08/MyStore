@@ -1,0 +1,143 @@
+﻿[
+	{
+		"Id":"1",
+		"ProductName":"Apple I-Pad Mini",
+		"ImageURL":"../images/Apple/apple-ipad-mini-3-new.jpg",
+		"Price":"25699"
+	},
+	{
+		"Id":"2",
+		"ProductName":"Apple I-Phone 4s",
+		"ImageURL":"../images/Apple/apple-iphone-4s-new.jpg",
+		"Price":"28900"
+	},
+	{
+		"Id":"3",
+		"ProductName":"Apple I-Phone 5s",
+		"ImageURL":"../images/Apple/apple-iphone-5s-ofic.jpg",
+		"Price":"38269"
+	},
+	{
+		"Id":"4",
+		"ProductName":"Apple I-Phone 6s Plus",
+		"ImageURL":"../images/Apple/apple-iphone-6s-plus.jpg",
+		"Price":"73999"
+	},
+
+	{
+		"Id":"5",
+		"ProductName":"Apple I-Phone 6s",
+		"ImageURL":"../images/Apple/apple-iphone-6s1.jpg",
+		"Price":"46474"
+	},
+	{
+		"Id":"6",
+		"ProductName":"Moto Nexus 6",
+		"ImageURL":"../images/Moto/moto-nexus-6.jpg",
+		"Price":"43999"
+	},
+	{
+		"Id":"7",
+		"ProductName":"Motorola Gen 3",
+		"ImageURL":"../images/Moto/motorola-moto-g-3rd-gen-r.jpg",
+		"Price":"12499"
+	},
+	{
+		"Id":"8",
+		"ProductName":"Motorola X",
+		"ImageURL":"../images/Moto/motorola-moto-x-2014.jpg",
+		"Price":"18499"
+	},
+
+	{
+		"Id":"9",
+		"ProductName":"Black Berry",
+		"ImageURL":"../images/BB/BlackBerry-Classic.jpg",
+		"Price":"30500"
+	}
+	,
+
+	{
+		"Id":"10",
+		"ProductName":"Black Berry",
+		"ImageURL":"../images/BB/blackberry-leap1.jpg",
+		"Price":"21325"
+	},
+
+	{
+		"Id":"11",
+		"ProductName":"Black Berry",
+		"ImageURL":"../images/BB/blackberry-passport-1.jpg",
+		"Price":"39999"
+	},
+	{
+		"Id":"12",
+		"ProductName":"Nokia",
+		"ImageURL":"../images/Nokia/nokia-lumia-735.jpg",
+		"Price":"17499"
+	}
+	,
+	{
+		"Id":"13",
+		"ProductName":"Nokia",
+		"ImageURL":"../images/Nokia/nokia-lumia-930-new.jpg",
+		"Price":"27299"
+	}
+	,
+	{
+		"Id":"14",
+		"ProductName":"Nokia",
+		"ImageURL":"../images/Nokia/nokia-xl.jpg",
+		"Price":"18490"
+	},
+	{
+		"Id":"15",
+		"ProductName":"Nokia",
+		"ImageURL":"../images/Nokia/nokia-x-plus.jpg",
+		"Price":"4980"
+	},
+	{
+		"Id":"16",
+		"ProductName":"Samsung",
+		"ImageURL":"../images/Samsung/samsung-galaxy-j1-ace.jpg",
+		"Price":"6398"
+	},
+	{
+		"Id":"17",
+		"ProductName":"Samsung",
+		"ImageURL":"../images/Samsung/samsung-galaxy-note5.jpg",
+		"Price":"47900"
+	},
+	{
+		"Id":"18",
+		"ProductName":"Samsung",
+		"ImageURL":"../images/Samsung/samsung-galaxy-note-edge1.jpg",
+		"Price":"43500"
+	},
+	{
+		"Id":"19",
+		"ProductName":"Samsung",
+		"ImageURL":"../images/Samsung/samsung-galaxy-on7.jpg",
+		"Price":"13899"
+	},
+	{
+		"Id":"20",
+		"ProductName":"Samsung",
+		"ImageURL":"../images/Samsung/samsung-galaxy-s6.jpg",
+		"Price":"36900"
+	},
+	{
+		"Id":"21",
+		"ProductName":"Samsung",
+		"ImageURL":"../images/Samsung/samsung-galaxy-s6-cdma.jpg",
+		"Price":"43499"
+	},
+	{
+		"Id":"22",
+		"ProductName":"Samsung",
+		"ImageURL":"../images/Samsung/samsung-galaxy-s6-edge-plus.jpg",
+		"Price":"53900"
+	}
+
+
+]
